@@ -1,2 +1,2 @@
 # Project for experiments
-Currently do nothing
+Currently doing nothing
